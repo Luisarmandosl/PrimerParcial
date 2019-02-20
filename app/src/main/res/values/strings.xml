@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PrimerParcial</string>
+    <string name="titulo1">titulo1</string>
+    <string name="descripcion1">descripcion1</string>
+    <string name="titulo2">titulo2</string>
+    <string name="descripcion2">descripcion2</string>
+<string name="titulo3">titulo3</string>
+    <string name="descripcion3">descripcion3</string>
+</resources>
